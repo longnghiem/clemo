@@ -372,10 +372,12 @@ header li:hover {
 }
 .section-6-bg {
   background-color: #292826;
+
 }
 .section-6-bg img {
   width: 100%;
   opacity: 0.2;
+  min-height: 700px;
 }
 .section-6-content {
   position: absolute;
@@ -504,8 +506,6 @@ footer span {
     width: 6px;
     height: 6px;
   }
-  .section-1-text{
-  }
   .section-1 {
     min-height: 200px;
   }
@@ -588,7 +588,6 @@ footer span {
   }
   .section-6-bg img{
     min-height: 900px;
-    min-width: 1200px;
   }
   .section-6-right,
   .section-6-left {
