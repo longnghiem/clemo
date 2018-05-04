@@ -90,6 +90,9 @@ header li:hover {
 .section-1 a{
   color: #fff;
 }
+.section-1 a:visited{
+  color: #fff;
+}
 .bg-img {
   background-color: #f4d2ae;
 }
@@ -199,6 +202,9 @@ header li:hover {
   text-align: center;
 }
 .section-3 a{
+  color: #fff;
+}
+.section-3 a:visited{
   color: #fff;
 }
 .grid-photo-container {
